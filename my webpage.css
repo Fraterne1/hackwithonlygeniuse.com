@@ -1,0 +1,44 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-image: linear-gradient(to bottom,black, red);
+}
+
+#menu{
+    margin-left: 250px;
+    margin-bottom: 500px;
+    padding: 10px;
+    background-image:linear-gradient(to right, black, red) ;
+    color: red;
+    height: 45px;
+    display: inline-block;
+    vertical-align: top;
+}
+#menu ul{
+    background-color: none;
+    padding: 0;
+    color: #000;
+}
+
+a{
+    margin-left: 20px;
+    border: none;
+    color: red;
+}
+
+#header{
+    width: 50px;
+    height: 10px;
+}
+
+#header li{
+    float: left;
+}
+.word{
+    margin-bottom: 25px;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    color: green;
+    font-size: 10px;
+}
